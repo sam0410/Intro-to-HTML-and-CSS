@@ -1,4 +1,4 @@
-<h2> Notes for this lesson : 
+<h2> Notes for this lesson : </h2>
 
 + For responsive design : use percentages for width and height. Also one can use customized Mobile/Tablet/Desktop view using 
 ```
