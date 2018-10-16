@@ -1,3 +1,5 @@
+<h2> Notes for this lesson : </h2>
+
 + There are several frontend frameworks like Bootstrap, Foundation, YAML etc.
 
 + bootstrap.min.css is added in the head of the html. This is because they take less space and can be downloaded faster.
